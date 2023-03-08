@@ -8,4 +8,3 @@ Kira.color = "Silver"
 Kira.type = "Sedan"
 print(Kira.year)
 print(Kira.type)
-
